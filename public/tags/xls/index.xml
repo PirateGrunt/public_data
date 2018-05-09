@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xls on Public Data</title>
+    <link>/tags/xls/</link>
+    <description>Recent content in Xls on Public Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/xls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COTOR Round 2</title>
+      <link>/cas/cotor-round-2/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/cas/cotor-round-2/</guid>
+      <description>In September of 2004, the committee on the theory of risk (COTOR) created sample data and asked actuaries to fit a loss distribution to the data.
+https://www.casact.org/research/cotor/index.cfm?fa=round2
+The file may be found here: https://www.casact.org/research/cotor/COTORChallengeClaims.xls
+This data is also found in the R package raw. Its appearance in that package is documented here.</description>
+    </item>
+    
+    <item>
+      <title>Texas closed claims data</title>
+      <link>/web/texas-closed-claims-data/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/web/texas-closed-claims-data/</guid>
+      <description>The data may be found here: http://www.tdi.texas.gov/reports/report4.html#closed.
+this data appears in the monograph: &amp;ldquo;A Machine-Learning Approach to Parameter Estimation&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

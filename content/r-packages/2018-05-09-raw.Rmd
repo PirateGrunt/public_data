@@ -1,0 +1,14 @@
+---
+title: raw
+author: Brian A. Fannin
+date: '2018-05-09'
+slug: raw
+categories: []
+tags: []
+---
+
+Contains a number of sets. A few of these were sourced from data on the CAS website.
+
+Found here: https://cran.r-project.org/package=raw
+
+Data set documentation here: http://pirategrunt.com/raw_package/

@@ -1,0 +1,15 @@
+# R stuff files
+.Rhistory
+*.Rdata
+.Rproj.user
+
+# Tex files
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.aux
+*.vrb
+*.tex
+

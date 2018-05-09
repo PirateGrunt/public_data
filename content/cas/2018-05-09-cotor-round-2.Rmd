@@ -1,0 +1,19 @@
+---
+title: COTOR Round 2
+author: Brian A. Fannin
+date: '2018-05-09'
+slug: cotor-round-2
+categories: []
+tags:
+  - XLS
+  - Claims
+  - synthetic
+---
+
+In September of 2004, the committee on the theory of risk (COTOR) created sample data and asked actuaries to fit a loss distribution to the data.
+
+https://www.casact.org/research/cotor/index.cfm?fa=round2
+
+The file may be found here: https://www.casact.org/research/cotor/COTORChallengeClaims.xls
+
+This data is also found in the R package [raw](https://cran.r-project.org/package=raw). Its appearance in that package is documented [here](http://pirategrunt.com/raw_package/COTOR2.html).

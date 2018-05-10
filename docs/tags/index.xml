@@ -2,210 +2,210 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Public Data</title>
-    <link>/cas-ossc.github.io/public_data/tags/</link>
+    <link>/public_data/tags/</link>
     <description>Recent content in Tags on Public Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/cas-ossc.github.io/public_data/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public_data/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bootstrap</title>
-      <link>/cas-ossc.github.io/public_data/tags/bootstrap/</link>
+      <link>/public_data/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/bootstrap/</guid>
+      <guid>/public_data/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Claims</title>
-      <link>/cas-ossc.github.io/public_data/tags/claims/</link>
+      <link>/public_data/tags/claims/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/claims/</guid>
+      <guid>/public_data/tags/claims/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>/cas-ossc.github.io/public_data/tags/css/</link>
+      <link>/public_data/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/css/</guid>
+      <guid>/public_data/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>/cas-ossc.github.io/public_data/tags/development/</link>
+      <link>/public_data/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/development/</guid>
+      <guid>/public_data/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>/cas-ossc.github.io/public_data/tags/go/</link>
+      <link>/public_data/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/go/</guid>
+      <guid>/public_data/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>/cas-ossc.github.io/public_data/tags/golang/</link>
+      <link>/public_data/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/golang/</guid>
+      <guid>/public_data/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlight Js</title>
-      <link>/cas-ossc.github.io/public_data/tags/highlight-js/</link>
+      <link>/public_data/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/highlight-js/</guid>
+      <guid>/public_data/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>/cas-ossc.github.io/public_data/tags/html/</link>
+      <link>/public_data/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/html/</guid>
+      <guid>/public_data/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/cas-ossc.github.io/public_data/tags/hugo/</link>
+      <link>/public_data/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/hugo/</guid>
+      <guid>/public_data/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>/cas-ossc.github.io/public_data/tags/jekyll/</link>
+      <link>/public_data/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/jekyll/</guid>
+      <guid>/public_data/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Js</title>
-      <link>/cas-ossc.github.io/public_data/tags/js/</link>
+      <link>/public_data/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/js/</guid>
+      <guid>/public_data/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>/cas-ossc.github.io/public_data/tags/plot/</link>
+      <link>/public_data/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/plot/</guid>
+      <guid>/public_data/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/cas-ossc.github.io/public_data/tags/r-markdown/</link>
+      <link>/public_data/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/r-markdown/</guid>
+      <guid>/public_data/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>/cas-ossc.github.io/public_data/tags/regression/</link>
+      <link>/public_data/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/regression/</guid>
+      <guid>/public_data/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive</title>
-      <link>/cas-ossc.github.io/public_data/tags/responsive/</link>
+      <link>/public_data/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/responsive/</guid>
+      <guid>/public_data/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Site Generator</title>
-      <link>/cas-ossc.github.io/public_data/tags/static-site-generator/</link>
+      <link>/public_data/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/static-site-generator/</guid>
+      <guid>/public_data/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>/cas-ossc.github.io/public_data/tags/syntax-highlighting/</link>
+      <link>/public_data/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/syntax-highlighting/</guid>
+      <guid>/public_data/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic</title>
-      <link>/cas-ossc.github.io/public_data/tags/synthetic/</link>
+      <link>/public_data/tags/synthetic/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/synthetic/</guid>
+      <guid>/public_data/tags/synthetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>/cas-ossc.github.io/public_data/tags/template/</link>
+      <link>/public_data/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/template/</guid>
+      <guid>/public_data/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Texas</title>
-      <link>/cas-ossc.github.io/public_data/tags/texas/</link>
+      <link>/public_data/tags/texas/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/texas/</guid>
+      <guid>/public_data/tags/texas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>/cas-ossc.github.io/public_data/tags/themes/</link>
+      <link>/public_data/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/themes/</guid>
+      <guid>/public_data/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xls</title>
-      <link>/cas-ossc.github.io/public_data/tags/xls/</link>
+      <link>/public_data/tags/xls/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/tags/xls/</guid>
+      <guid>/public_data/tags/xls/</guid>
       <description></description>
     </item>
     

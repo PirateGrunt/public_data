@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webs on Public Data</title>
-    <link>/cas-ossc.github.io/public_data/web/</link>
+    <link>/public_data/web/</link>
     <description>Recent content in Webs on Public Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/cas-ossc.github.io/public_data/web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public_data/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Texas closed claims data</title>
-      <link>/cas-ossc.github.io/public_data/web/texas-closed-claims-data/</link>
+      <link>/public_data/web/texas-closed-claims-data/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/cas-ossc.github.io/public_data/web/texas-closed-claims-data/</guid>
+      <guid>/public_data/web/texas-closed-claims-data/</guid>
       <description>The data may be found here: http://www.tdi.texas.gov/reports/report4.html#closed.
 this data appears in the monograph: &amp;ldquo;A Machine-Learning Approach to Parameter Estimation&amp;rdquo;</description>
     </item>

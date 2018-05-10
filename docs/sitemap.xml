@@ -3,240 +3,240 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/project1/</loc>
+    <loc>/cas-ossc.github.io/public_data/project/project1/</loc>
   </url>
   
   <url>
-    <loc>/project/project2/</loc>
+    <loc>/cas-ossc.github.io/public_data/project/project2/</loc>
   </url>
   
   <url>
-    <loc>/project/project3/</loc>
+    <loc>/cas-ossc.github.io/public_data/project/project3/</loc>
   </url>
   
   <url>
-    <loc>/project/project4/</loc>
+    <loc>/cas-ossc.github.io/public_data/project/project4/</loc>
   </url>
   
   <url>
-    <loc>/cas/cotor-round-2/</loc>
+    <loc>/cas-ossc.github.io/public_data/cas/cotor-round-2/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/r-packages/raw/</loc>
+    <loc>/cas-ossc.github.io/public_data/r-packages/raw/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/web/texas-closed-claims-data/</loc>
+    <loc>/cas-ossc.github.io/public_data/web/texas-closed-claims-data/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/cas-ossc.github.io/public_data/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/creating-a-new-theme/</loc>
+    <loc>/cas-ossc.github.io/public_data/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/goisforlovers/</loc>
+    <loc>/cas-ossc.github.io/public_data/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hugoisforlovers/</loc>
+    <loc>/cas-ossc.github.io/public_data/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/migrate-from-jekyll/</loc>
+    <loc>/cas-ossc.github.io/public_data/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bootstrap/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/cas/</loc>
+    <loc>/cas-ossc.github.io/public_data/cas/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/cas-ossc.github.io/public_data/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/claims/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/claims/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/css/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/css/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/highlight-js/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/highlight-js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/html/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/html/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/public-entity/</loc>
-    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/r-packages/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/static-site-generator/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/syntax-highlighting/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/synthetic/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/cas-ossc.github.io/public_data/categories/public-entity/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/r-packages/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/template/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/tags/synthetic/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/tags/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cas-ossc.github.io/public_data/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/texas/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/texas/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/web/</loc>
+    <loc>/cas-ossc.github.io/public_data/web/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/xls/</loc>
+    <loc>/cas-ossc.github.io/public_data/tags/xls/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

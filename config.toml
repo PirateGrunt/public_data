@@ -1,4 +1,4 @@
-baseURL = "/public_data/"
+baseURL = "cas-ossc.github.io/public_data/"
 languageCode = "en-us"
 title = "Public Data"
 theme = "minimal"
